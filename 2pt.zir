@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CaR>
+<Construction>
+<Window x="-0.4544378698224847" y="0.07573964497041352" w="1.511098206190189" showgrid="true"/>
+<Windowdim w="1024" h="698"/>
+<Preferences minfontsize="12" minpointsize="3" minlinesize="1" arrowsize="10" digits.lengths="3" digits.edit="4" digits.angles="2" colorbackground="245,245,245" colorbackgroundx="139" colorbackgroundy="9" colorbackgroundPal="4" fig3D="false"/>
+<Grid color="0" thickness="0"/>
+<Objects>
+<Line name="yAxis" n="1" yaxis="true">Y axis</Line>
+<Line name="xAxis" n="0" xaxis="true">X axis</Line>
+<Point name="P1" n="2" color="2" x="-1" actx="-1.0" y="0" acty="0.0" shape="circle" fixed="true">Point</Point>
+<Point name="P2" n="3" color="2" x="1" actx="1.0" y="0" acty="0.0" shape="circle" fixed="true">Point</Point>
+</Objects>
+</Construction>
+</CaR>

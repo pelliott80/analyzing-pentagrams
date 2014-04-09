@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CaR>
+<Construction>
+<Window x="0.0" y="0.0" w="1.907947632127203"/>
+<Windowdim w="1024" h="698"/>
+<Preferences minfontsize="12" minpointsize="3" minlinesize="1" arrowsize="10" digits.lengths="12" digits.edit="4" digits.angles="2" colorbackground="245,245,245" colorbackgroundx="139" colorbackgroundy="9" colorbackgroundPal="4" fig3D="false"/>
+<Objects>
+<Line name="yAxis" n="1" yaxis="true">Y axis</Line>
+<Line name="xAxis" n="0" xaxis="true">X axis</Line>
+<PointOn name="P1" n="2" color="2" hidden="true" on="xAxis" alpha="-1.003319084883938" x="-1.003319084883938" y="0.0" shape="circle">Point on an Object</PointOn>
+<PointOn name="P2" n="4" color="2" hidden="true" on="xAxis" alpha="0.9985185150998044" x="0.9985185150998044" y="0.0" shape="circle">Point on an Object</PointOn>
+<Intersection name="P3" n="5" color="2" hidden="true" first="yAxis" second="xAxis" shape="circle">Intersection between yAxis and xAxis</Intersection>
+<Circle name="c2" n="10" color="4" through="P2" midpoint="P3" acute="true">Circle around P3 through P2</Circle>
+<PointOn name="P4" n="11" color="2" hidden="true" on="c2" alpha="-2.229725333890602" x="-0.6113633550417769" y="-0.7894770884004048" shape="circle">Point on an Object</PointOn>
+<Line name="l1" n="14" color="3" hidden="true" from="P4" to="P3">Line through P4 and P3</Line>
+<Intersection name="P5" n="17" color="2" hidden="true" first="l1" second="c2" awayfrom="P4" shape="circle" which="first">Intersection between l1 and c2</Intersection>
+<Segment name="s9" n="18" color="1" from="P4" to="P5">Line segment from P4 to P5</Segment>
+<PointOn name="P6" n="21" color="2" hidden="true" on="c2" alpha="1.8391625377008036" x="-0.26476365769525784" y="0.9627769370736644" shape="circle">Point on an Object</PointOn>
+<Segment name="s10" n="22" color="1" from="P3" to="P6">Line segment from P3 to P6</Segment>
+<Segment name="s11" n="25" color="1" from="P4" to="P6">Line segment from P4 to P6</Segment>
+<Intersection name="P7" n="26" color="2" hidden="true" first="s9" second="c2" shape="circle" which="first">Intersection between s9 and c2</Intersection>
+<Intersection name="P8" n="29" color="2" hidden="true" first="xAxis" second="s9" shape="circle">Intersection between xAxis and s9</Intersection>
+<Circle name="c3" n="30" color="4" hidden="true" through="P8" midpoint="P7" acute="true">Circle around P7 through P8</Circle>
+<Intersection name="P9" n="31" color="2" hidden="true" first="s10" second="s11" shape="circle">Intersection between s10 and s11</Intersection>
+<Circle name="c4" n="34" color="4" hidden="true" through="P8" midpoint="P9" acute="true">Circle around P9 through P8</Circle>
+<Intersection name="P10" n="37" color="2" hidden="true" first="c3" second="c4" awayfrom="P8" shape="circle" which="first">Intersection between c3 and c4</Intersection>
+<Line name="l2" n="38" color="3" hidden="true" from="P8" to="P10">Line through P8 and P10</Line>
+<Intersection name="P11" n="41" color="2" hidden="true" first="l2" second="c2" shape="circle" which="first">Intersection between l2 and c2</Intersection>
+<Segment name="s12" n="42" color="1" hidden="true" from="P8" to="P11">Line segment from P8 to P11</Segment>
+<Intersection name="P12" n="45" color="2" hidden="true" first="l2" second="c2" shape="circle" which="second">Intersection between l2 and c2</Intersection>
+<Segment name="s13" n="46" color="1" from="P10" to="P12">Line segment from P10 to P12</Segment>
+</Objects>
+</Construction>
+</CaR>

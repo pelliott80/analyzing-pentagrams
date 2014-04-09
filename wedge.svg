@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="526">
+<ellipse cx="295.0" cy="263.0" rx="190.40451568191565" ry="190.40451568191565" style="stroke:rgb(0,124,124);fill:none;stroke-width:1"/>
+<line x1="295.0" y1="72.59548431808435" x2="183.08303371227902" y2="417.040488992401" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<line x1="406.91696628772104" y1="417.040488992401" x2="295.0" y2="72.59548431808435" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<line x1="183.08303371227902" y1="417.040488992401" x2="406.91696628772104" y2="417.040488992401" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<ellipse cx="295.0" cy="72.59548431808432" rx="223.83393257544193" ry="223.83393257544193" style="stroke:rgb(0,124,124);fill:none;stroke-width:1"/>
+<line x1="-147.73578213942517" y1="657.3944277730379" x2="806.9042712230129" y2="-36.192169932080105" style="stroke:rgb(150,100,0);stroke-width:1"/>
+<line x1="737.7357821394252" y1="657.394427773038" x2="-216.90427122301284" y2="-36.19216993208022" style="stroke:rgb(150,100,0);stroke-width:1"/>
+<ellipse cx="295.0" cy="72.59548431808435" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="183.08303371227902" cy="417.040488992401" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="406.91696628772104" cy="417.040488992401" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="364.1684890835877" cy="285.4742044619284" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="225.8315109164123" cy="285.4742044619284" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="295.0" cy="72.59548431808435" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="183.08303371227902" cy="417.040488992401" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="406.91696628772104" cy="417.040488992401" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="364.1684890835877" cy="285.4742044619284" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="225.8315109164123" cy="285.4742044619284" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+</svg>

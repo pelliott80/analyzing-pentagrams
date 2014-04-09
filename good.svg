@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="1101" height="629">
+<ellipse cx="550.5" cy="314.5" rx="273.06723940623635" ry="273.06723940623635" style="stroke:rgb(0,0,178);fill:none;stroke-width:3"/>
+<line x1="550.5" y1="41.432760593763646" x2="389.9951037927962" y2="535.4160372866976" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<line x1="711.0048962072038" y1="535.4160372866976" x2="550.5" y2="41.432760593763646" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<line x1="389.9951037927962" y1="535.4160372866976" x2="810.2023774240298" y2="230.11758241642065" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<line x1="810.2023774240298" y1="230.11758241642065" x2="290.7976225759702" y2="230.1175824164207" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<line x1="290.7976225759702" y1="230.1175824164207" x2="711.0048962072038" y2="535.4160372866976" style="stroke:rgb(0,124,0);stroke-width:1"/>
+</svg>

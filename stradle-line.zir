@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CaR>
+<Construction>
+<Window x="-0.009755528880715847" y="0.14494404910970804" w="2.249513410023918"/>
+<Windowdim w="1280" h="741"/>
+<Preferences minfontsize="12" minpointsize="3" minlinesize="1" arrowsize="10" digits.lengths="2" digits.edit="4" digits.angles="2" colorbackground="245,245,245" colorbackgroundx="139" colorbackgroundy="9" colorbackgroundPal="4" fig3D="false"/>
+<Objects>
+<Line name="yAxis" n="1" yaxis="true">Y axis</Line>
+<Line name="xAxis" n="0" xaxis="true">X axis</Line>
+<PointOn name="P1" n="2" color="2" hidden="true" on="xAxis" alpha="-0.9965992864116444" x="-0.9965992864116444" y="0.0" shape="circle">Point on an Object</PointOn>
+<Intersection name="P3" n="4" color="2" hidden="true" first="yAxis" second="xAxis" shape="circle">Intersection between yAxis and xAxis</Intersection>
+<PointOn name="P2" n="8" color="2" hidden="true" on="xAxis" alpha="1.0006642061182074" x="1.0006642061182074" y="0.0" shape="circle">Point on an Object</PointOn>
+<Circle name="c2" n="11" color="4" through="P2" midpoint="P3" acute="true">Circle around P3 through P2</Circle>
+<PointOn name="P4" n="14" color="2" hidden="true" on="c2" alpha="-0.7512851903589906" x="0.7312976392358488" y="-0.683031929161629" shape="circle">Point on an Object</PointOn>
+<Segment name="s1" n="15" color="1" from="P3" to="P4">Line segment from P3 to P4</Segment>
+<PointOn name="P5" n="18" color="2" hidden="true" on="c2" alpha="0.4117749485590833" x="0.9170205538371495" y="0.40050238107455727" shape="circle">Point on an Object</PointOn>
+<Segment name="s2" n="19" color="1" hidden="true" from="P3" to="P5">Line segment from P3 to P5</Segment>
+<PointOn name="P6" n="20" color="2" hidden="true" on="c2" alpha="2.930840396626196" x="-0.9785233323742452" y="0.20933452033858302" shape="circle">Point on an Object</PointOn>
+<Segment name="s3" n="23" color="1" hidden="true" from="P6" to="P5">Line segment from P6 to P5</Segment>
+<Segment name="s4" n="26" color="1" from="P6" to="P4">Line segment from P6 to P4</Segment>
+<PointOn name="P7" n="29" color="2" hidden="true" on="c2" alpha="0.9171978233348814" x="0.6084510601778252" y="0.7944281973688136" shape="circle">Point on an Object</PointOn>
+<Segment name="s5" n="32" color="1" from="P7" to="P6">Line segment from P7 to P6</Segment>
+<Segment name="s6" n="35" color="1" from="P7" to="P3">Line segment from P7 to P3</Segment>
+<Intersection name="P8" n="36" color="2" hidden="true" first="s5" second="c2" shape="circle" which="first">Intersection between s5 and c2</Intersection>
+<Intersection name="P9" n="39" color="2" hidden="true" first="s6" second="s1" shape="circle">Intersection between s6 and s1</Intersection>
+<Line name="l1" n="40" color="3" from="P8" to="P9">Line through P8 and P9</Line>
+</Objects>
+</Construction>
+</CaR>

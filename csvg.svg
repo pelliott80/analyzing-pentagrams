@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="845" height="526">
+<ellipse cx="422.5" cy="263.0" rx="211.0" ry="211.0" style="stroke:rgb(0,124,124);fill:none;stroke-width:1"/>
+<ellipse cx="633.5" cy="263.0" rx="211.25" ry="211.25" style="stroke:rgb(0,124,124);fill:none;stroke-width:1"/>
+<line x1="527.7498518957347" y1="80.12444483768223" x2="527.7498518957347" y2="445.87555516231777" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<ellipse cx="527.7498518957347" cy="263.0" rx="235.79340814381155" ry="235.79340814381155" style="stroke:rgb(0,124,124);fill:none;stroke-width:1"/>
+<ellipse cx="422.5" cy="52.0" rx="248.11815749334994" ry="248.11815749334994" style="stroke:rgb(0,124,124);fill:none;stroke-width:1"/>
+<ellipse cx="221.79929127337192" cy="197.8829859665754" rx="248.11815749334988" ry="248.11815749334988" style="stroke:rgb(0,124,124);fill:none;stroke-width:1"/>
+<ellipse cx="623.2007087266279" cy="197.8829859665754" rx="248.11815749334988" ry="248.11815749334988" style="stroke:rgb(0,124,124);fill:none;stroke-width:1"/>
+<line x1="422.5" y1="52.0" x2="221.79929127337198" y2="197.88298596657535" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<line x1="221.79929127337198" y1="197.88298596657535" x2="298.62293017374304" y2="433.80828894190313" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<line x1="298.62293017374304" y1="433.80828894190313" x2="546.3770698262568" y2="433.80828894190313" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<line x1="546.3770698262568" y1="433.80828894190313" x2="623.200708726628" y2="197.88298596657535" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<line x1="623.200708726628" y1="197.88298596657535" x2="422.5" y2="52.0" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<line x1="422.5" y1="52.0" x2="298.62293017374304" y2="433.80828894190313" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<line x1="298.62293017374304" y1="433.80828894190313" x2="623.200708726628" y2="197.88298596657535" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<line x1="623.200708726628" y1="197.88298596657535" x2="221.79929127337198" y2="197.88298596657535" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<line x1="221.79929127337198" y1="197.88298596657535" x2="546.3770698262568" y2="433.80828894190313" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<line x1="546.3770698262568" y1="433.80828894190313" x2="422.5" y2="52.0" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<line x1="422.5" y1="263.0" x2="422.5" y2="52.0" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<line x1="422.5" y1="263.0" x2="221.79929127337198" y2="197.88298596657535" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<line x1="422.5" y1="263.0" x2="298.62293017374304" y2="433.80828894190313" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<line x1="422.5" y1="263.0" x2="546.3770698262568" y2="433.80828894190313" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<line x1="422.5" y1="263.0" x2="623.200708726628" y2="197.88298596657535" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<ellipse cx="422.5" cy="263.0" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="422.5" cy="52.0" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="633.5" cy="263.0" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="527.7498518957347" cy="445.87555516231777" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="527.7498518957347" cy="80.12444483768223" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="527.7498518957347" cy="263.0" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="291.9564437519231" cy="263.0" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="221.79929127337198" cy="197.88298596657535" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="623.200708726628" cy="197.88298596657535" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="298.62293017374304" cy="433.80828894190313" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="546.3770698262568" cy="433.80828894190313" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="422.5" cy="263.0" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="422.5" cy="52.0" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="633.5" cy="263.0" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="527.7498518957347" cy="445.87555516231777" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="527.7498518957347" cy="80.12444483768223" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="527.7498518957347" cy="263.0" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="291.9564437519231" cy="263.0" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="221.79929127337198" cy="197.88298596657535" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="623.200708726628" cy="197.88298596657535" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="298.62293017374304" cy="433.80828894190313" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+<ellipse cx="546.3770698262568" cy="433.80828894190313" rx="4.0" ry="4.0" style="stroke:rgb(0,0,178);stroke-width:1;fill:none"/>
+</svg>

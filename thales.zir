@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CaR>
+<Construction>
+<Window x="0.0" y="0.0" w="3.4566748590790843"/>
+<Windowdim w="1280" h="741"/>
+<Preferences minfontsize="12" minpointsize="3" minlinesize="1" arrowsize="10" digits.lengths="2" digits.edit="4" digits.angles="2" colorbackground="245,245,245" colorbackgroundx="139" colorbackgroundy="9" colorbackgroundPal="4" fig3D="false"/>
+<Objects>
+<Point name="P1" n="2" color="2" hidden="true" x="-1" actx="-1.0" y="0" acty="0.0" shape="circle" fixed="true">Point</Point>
+<Point name="P2" n="3" color="2" hidden="true" x="1" actx="1.0" y="0" acty="0.0" shape="circle" fixed="true">Point</Point>
+<Point name="P3" n="4" color="2" hidden="true" x="0" actx="0.0" y="0" acty="0.0" shape="circle" fixed="true">Point</Point>
+<Circle name="c1" n="7" color="4" through="P2" midpoint="P3" acute="true">Circle around P3 through P2</Circle>
+<Segment name="s1" n="10" color="1" from="P2" to="P1">Line segment from P2 to P1</Segment>
+<PointOn name="P4" n="11" color="2" hidden="true" on="c1" alpha="0.9382745065447726" x="0.5911805825607269" y="0.8065392233507057" shape="circle">Point on an Object</PointOn>
+<Segment name="s2" n="14" color="1" from="P4" to="P1">Line segment from P4 to P1</Segment>
+<Segment name="s3" n="17" color="1" from="P4" to="P2">Line segment from P4 to P2</Segment>
+</Objects>
+</Construction>
+</CaR>

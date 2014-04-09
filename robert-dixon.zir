@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CaR>
+<Construction>
+<Window x="0.0" y="0.0" w="1.5493330026521983"/>
+<Windowdim w="1024" h="698"/>
+<Preferences minfontsize="12" minpointsize="3" minlinesize="1" arrowsize="10" digits.lengths="12" digits.edit="4" digits.angles="2" colorbackground="245,245,245" colorbackgroundx="139" colorbackgroundy="9" colorbackgroundPal="4" fig3D="false"/>
+<Objects>
+<Line name="yAxis" n="1" yaxis="true">Y axis</Line>
+<Line name="xAxis" n="0" xaxis="true">X axis</Line>
+<Intersection name="P1" n="2" color="2" first="yAxis" second="xAxis" shape="circle">Intersection between yAxis and xAxis</Intersection>
+<Point name="P2" n="4" color="2" x="-1" actx="-1.0" y="0" acty="0.0" shape="circle" fixed="true">Point</Point>
+<Point name="P3" n="6" color="2" x="0" actx="0.0" y="1" acty="1.0" shape="circle" fixed="true">Point</Point>
+<Point name="P4" n="7" color="2" x="1" actx="1.0" y="0" acty="0.0" shape="circle" fixed="true">Point</Point>
+<Point name="P5" n="9" color="2" x="0" actx="0.0" y="-1" acty="-1.0" shape="circle" fixed="true">Point</Point>
+<Segment name="s1" n="12" color="1" from="P3" to="P5">Line segment from P3 to P5</Segment>
+<Segment name="s2" n="15" color="1" from="P4" to="P2">Line segment from P4 to P2</Segment>
+<Circle name="c1" n="18" color="4" through="P2" midpoint="P1" acute="true">Circle around P1 through P2</Circle>
+<Circle name="c2" n="23" color="4" through="P1" midpoint="P2" acute="true">Circle around P2 through P1</Circle>
+<Circle name="c3" n="26" color="4" through="P1" midpoint="P4" acute="true">Circle around P4 through P1</Circle>
+<Intersection name="P6" n="27" color="2" first="c1" second="c2" shape="circle" which="first">Intersection between c1 and c2</Intersection>
+<Intersection name="P7" n="30" color="2" first="c1" second="c2" shape="circle" which="second">Intersection between c1 and c2</Intersection>
+<Line name="l1" n="31" color="3" from="P6" to="P7">Line through P6 and P7</Line>
+<Intersection name="P8" n="32" color="2" first="c3" second="c1" shape="circle" which="first">Intersection between c3 and c1</Intersection>
+<Intersection name="P9" n="35" color="2" first="c1" second="c3" shape="circle" which="first">Intersection between c1 and c3</Intersection>
+<Line name="l2" n="36" color="3" from="P8" to="P9">Line through P8 and P9</Line>
+<Intersection name="P10" n="39" color="2" first="s2" second="l1" shape="circle">Intersection between s2 and l1</Intersection>
+<Line name="l3" n="40" color="3" from="P5" to="P10">Line through P5 and P10</Line>
+<Circle name="c4" n="45" color="4" through="P1" midpoint="P10" acute="true">Circle around P10 through P1</Circle>
+<Intersection name="P11" n="46" color="2" first="l2" second="s2" shape="circle">Intersection between l2 and s2</Intersection>
+<Circle name="c5" n="49" color="4" through="P1" midpoint="P11" acute="true">Circle around P11 through P1</Circle>
+<Intersection name="P12" n="52" color="2" first="l3" second="c4" shape="circle" which="second">Intersection between l3 and c4</Intersection>
+<Circle name="c6" n="53" color="4" through="P12" midpoint="P5" acute="true">Circle around P5 through P12</Circle>
+<Intersection name="P13" n="56" color="2" first="l3" second="c4" shape="circle" which="first">Intersection between l3 and c4</Intersection>
+<Circle name="c7" n="57" color="4" through="P13" midpoint="P5" acute="true">Circle around P5 through P13</Circle>
+<Intersection name="P14" n="60" color="2" first="c6" second="c1" shape="circle" which="second">Intersection between c6 and c1</Intersection>
+<Segment name="s3" n="61" color="1" from="P3" to="P14">Line segment from P3 to P14</Segment>
+<Intersection name="P15" n="64" color="2" first="c7" second="c1" shape="circle" which="first">Intersection between c7 and c1</Intersection>
+<Segment name="s4" n="65" color="1" from="P14" to="P15">Line segment from P14 to P15</Segment>
+<Intersection name="P16" n="68" color="2" first="c1" second="c7" shape="circle" which="first">Intersection between c1 and c7</Intersection>
+<Segment name="s5" n="69" color="1" from="P15" to="P16">Line segment from P15 to P16</Segment>
+<Intersection name="P17" n="72" color="2" first="c1" second="c6" shape="circle" which="second">Intersection between c1 and c6</Intersection>
+<Segment name="s6" n="73" color="1" from="P16" to="P17">Line segment from P16 to P17</Segment>
+<Segment name="s7" n="76" color="1" from="P17" to="P3">Line segment from P17 to P3</Segment>
+<Segment name="s8" n="79" color="1" from="P3" to="P16">Line segment from P3 to P16</Segment>
+<Segment name="s9" n="82" color="1" from="P16" to="P14">Line segment from P16 to P14</Segment>
+<Segment name="s10" n="85" color="1" from="P14" to="P17">Line segment from P14 to P17</Segment>
+<Segment name="s11" n="88" color="1" from="P17" to="P15">Line segment from P17 to P15</Segment>
+<Segment name="s12" n="91" color="1" from="P15" to="P3">Line segment from P15 to P3</Segment>
+</Objects>
+</Construction>
+</CaR>

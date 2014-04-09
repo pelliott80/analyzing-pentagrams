@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CaR>
+<Construction>
+<Window x="0.0" y="0.0" w="10.079934912679747"/>
+<Windowdim w="1024" h="698"/>
+<Preferences minfontsize="12" minpointsize="3" minlinesize="1" arrowsize="10" digits.lengths="2" digits.edit="4" digits.angles="2" colorbackground="245,245,245" colorbackgroundx="139" colorbackgroundy="9" colorbackgroundPal="4" fig3D="false"/>
+<Objects>
+<Point name="P1" n="9" color="2" hidden="true" x="-5" actx="-5.0" y="0" acty="0.0" shape="circle" fixed="true">Point</Point>
+<Line name="yAxis" n="1" yaxis="true">Y axis</Line>
+<Line name="xAxis" n="0" xaxis="true">X axis</Line>
+<Point name="P2" n="9" color="2" hidden="true" x="5" actx="5.0" y="0" acty="0.0" shape="circle" fixed="true">Point</Point>
+<Point name="P3" n="13" color="2" hidden="true" x="0" actx="0.0" y="5" acty="5.0" shape="circle" fixed="true">Point</Point>
+<Point name="P4" n="14" color="2" hidden="true" x="0" actx="0.0" y="-5" acty="-5.0" shape="circle" fixed="true">Point</Point>
+<Point name="P5" n="15" color="2" hidden="true" x="0" actx="0.0" y="0" acty="0.0" shape="circle" fixed="true">Point</Point>
+<Segment name="s1" n="12" color="1" hidden="true" from="P1" to="P2">Line segment from P1 to P2</Segment>
+<Circle name="c1" n="18" color="4" through="P1" midpoint="P5" acute="true">Circle around P5 through P1</Circle>
+<Circle name="c2" n="21" color="4" hidden="true" through="P5" midpoint="P1" acute="true">Circle around P1 through P5</Circle>
+<Circle name="c3" n="24" color="4" hidden="true" through="P5" midpoint="P2" acute="true">Circle around P2 through P5</Circle>
+<Intersection name="P6" n="25" color="2" hidden="true" first="c3" second="c1" shape="circle" which="first">Intersection between c3 and c1</Intersection>
+<Intersection name="P7" n="28" color="2" hidden="true" first="c3" second="c1" shape="circle" which="second">Intersection between c3 and c1</Intersection>
+<Intersection name="P8" n="30" color="2" hidden="true" first="c1" second="c2" shape="circle" which="first">Intersection between c1 and c2</Intersection>
+<Intersection name="P9" n="33" color="2" hidden="true" first="c2" second="c1" shape="circle" which="first">Intersection between c2 and c1</Intersection>
+<Segment name="s2" n="29" color="1" hidden="true" from="P6" to="P7">Line segment from P6 to P7</Segment>
+<Segment name="s3" n="34" color="1" hidden="true" from="P8" to="P9">Line segment from P8 to P9</Segment>
+<Intersection name="P10" n="35" color="2" hidden="true" first="xAxis" second="s3" shape="circle">Intersection between xAxis and s3</Intersection>
+<Intersection name="P11" n="43" color="2" hidden="true" first="xAxis" second="s2" shape="circle">Intersection between xAxis and s2</Intersection>
+<Circle name="c4" n="42" color="4" hidden="true" through="P5" midpoint="P10" acute="true">Circle around P10 through P5</Circle>
+<Circle name="c5" n="46" color="4" hidden="true" through="P5" midpoint="P11" acute="true">Circle around P11 through P5</Circle>
+<Line name="l1" n="49" color="3" hidden="true" from="P3" to="P10">Line through P3 and P10</Line>
+<Intersection name="P12" n="52" color="2" hidden="true" first="l1" second="c4" shape="circle" which="first">Intersection between l1 and c4</Intersection>
+<Circle name="c6" n="53" color="4" hidden="true" through="P12" midpoint="P3" acute="true">Circle around P3 through P12</Circle>
+<Intersection name="P13" n="56" color="2" hidden="true" first="s3" second="c6" shape="circle" which="first">Intersection between s3 and c6</Intersection>
+<Intersection name="P14" n="60" color="2" hidden="true" first="s2" second="c6" shape="circle" which="first">Intersection between s2 and c6</Intersection>
+<Line name="l2" n="57" color="3" hidden="true" from="P3" to="P13">Line through P3 and P13</Line>
+<Line name="l3" n="61" color="3" hidden="true" from="P3" to="P14">Line through P3 and P14</Line>
+<Line name="l4" n="64" color="3" hidden="true" from="P13" to="P14">Line through P13 and P14</Line>
+<Intersection name="P15" n="65" color="2" hidden="true" first="l3" second="c1" shape="circle" which="first">Intersection between l3 and c1</Intersection>
+<Intersection name="P16" n="68" color="2" hidden="true" first="l2" second="c1" shape="circle" which="first">Intersection between l2 and c1</Intersection>
+<Segment name="s5" n="69" color="1" hidden="true" from="P15" to="P16">Line segment from P15 to P16</Segment>
+<Circle name="c9" n="84" color="4" hidden="true" through="P15" midpoint="P16" acute="true">Circle around P16 through P15</Circle>
+<Circle name="c10" n="87" color="4" hidden="true" through="P16" midpoint="P15" acute="true">Circle around P15 through P16</Circle>
+<Segment name="s14" n="111" color="1" hidden="true" from="P3" to="P16">Line segment from P3 to P16</Segment>
+<Segment name="s18" n="123" color="1" hidden="true" from="P15" to="P3">Line segment from P15 to P3</Segment>
+<Intersection name="P18" n="94" color="2" hidden="true" first="c10" second="c1" awayfrom="P16" shape="circle" which="first">Intersection between c10 and c1</Intersection>
+<Intersection name="P17" n="104" color="2" hidden="true" first="c1" second="c9" shape="circle" which="first">Intersection between c1 and c9</Intersection>
+<Segment name="s9" n="95" color="1" hidden="true" from="P15" to="P18">Line segment from P15 to P18</Segment>
+<Segment name="s10" n="98" color="1" hidden="true" from="P18" to="P3">Line segment from P18 to P3</Segment>
+<Segment name="s12" n="105" color="1" hidden="true" from="P16" to="P17">Line segment from P16 to P17</Segment>
+<Segment name="s13" n="108" color="1" hidden="true" from="P17" to="P3">Line segment from P17 to P3</Segment>
+<Segment name="s15" n="114" color="1" hidden="true" from="P16" to="P18">Line segment from P16 to P18</Segment>
+<Segment name="s16" n="117" color="1" hidden="true" from="P18" to="P17">Line segment from P18 to P17</Segment>
+<Segment name="s17" n="120" color="1" hidden="true" from="P17" to="P15">Line segment from P17 to P15</Segment>
+<Segment name="s4" n="126" color="1" from="P5" to="P3">Line segment from P5 to P3</Segment>
+<Segment name="s6" n="129" color="1" from="P5" to="P17">Line segment from P5 to P17</Segment>
+<Segment name="s7" n="132" color="1" from="P5" to="P16">Line segment from P5 to P16</Segment>
+<Segment name="s8" n="135" color="1" from="P5" to="P15">Line segment from P5 to P15</Segment>
+<Segment name="s11" n="138" color="1" from="P5" to="P18">Line segment from P5 to P18</Segment>
+</Objects>
+</Construction>
+</CaR>

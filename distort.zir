@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CaR>
+<Construction>
+<Window x="0.0" y="0.0" w="1.5493330026521983"/>
+<Windowdim w="1024" h="698"/>
+<Preferences minfontsize="12" minpointsize="3" minlinesize="1" arrowsize="10" digits.lengths="12" digits.edit="4" digits.angles="2" colorbackground="245,245,245" colorbackgroundx="139" colorbackgroundy="9" colorbackgroundPal="4" fig3D="false"/>
+<Objects>
+<Line name="yAxis" n="1" yaxis="true">Y axis</Line>
+<Line name="xAxis" n="0" xaxis="true">X axis</Line>
+<Point name="P2" n="4" color="2" hidden="true" x="-1" actx="-1.0" y="0" acty="0.0" shape="circle" fixed="true">Point</Point>
+<Point name="P3" n="6" color="2" x="0" actx="0.0" y="1" acty="1.0" shape="circle" fixed="true">Point</Point>
+<Point name="P4" n="7" color="2" hidden="true" x="1" actx="1.0" y="0" acty="0.0" shape="circle" fixed="true">Point</Point>
+<Point name="P5" n="9" color="2" hidden="true" x="0" actx="0.0" y="-1" acty="-1.0" shape="circle" fixed="true">Point</Point>
+<Segment name="s1" n="12" color="1" hidden="true" from="P3" to="P5">Line segment from P3 to P5</Segment>
+<Segment name="s2" n="15" color="1" hidden="true" from="P4" to="P2">Line segment from P4 to P2</Segment>
+</Objects>
+</Construction>
+</CaR>

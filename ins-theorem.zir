@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CaR>
+<Construction>
+<Window x="0.0" y="0.0" w="2.660544679816908"/>
+<Windowdim w="1024" h="698"/>
+<Preferences minfontsize="12" minpointsize="3" minlinesize="1" arrowsize="10" digits.lengths="12" digits.edit="4" digits.angles="2" colorbackground="245,245,245" colorbackgroundx="139" colorbackgroundy="9" colorbackgroundPal="4" fig3D="false"/>
+<Objects>
+<Point name="P1" n="2" color="2" hidden="true" x="-1" actx="-1.0" y="0" acty="0.0" shape="circle" fixed="true">Point</Point>
+<Point name="P2" n="3" color="2" hidden="true" x="1" actx="1.0" y="0" acty="0.0" shape="circle" fixed="true">Point</Point>
+<Point name="P3" n="4" color="2" x="0" actx="0.0" y="0" acty="0.0" shape="circle" fixed="true">Point</Point>
+<Circle name="c1" n="9" color="4" through="P1" midpoint="P3" acute="true">Circle around P3 through P1</Circle>
+<PointOn name="P4" n="10" color="2" on="c1" alpha="0.6181442259351875" x="0.8149553245687549" y="0.5795237863600038" shape="circle">Point on an Object</PointOn>
+<PointOn name="P5" n="11" color="2" on="c1" alpha="-0.3495211909900629" x="0.9395367877214184" y="-0.34244798804799326" shape="circle">Point on an Object</PointOn>
+<Segment name="s1" n="14" color="1" from="P3" to="P4">Line segment from P3 to P4</Segment>
+<Segment name="s2" n="17" color="1" from="P3" to="P5">Line segment from P3 to P5</Segment>
+<PointOn name="P6" n="18" color="2" on="c1" alpha="2.1867814463027266" x="-0.577762861653585" y="0.8162046775741121" shape="circle">Point on an Object</PointOn>
+<Segment name="s3" n="21" color="1" from="P6" to="P5">Line segment from P6 to P5</Segment>
+<Segment name="s4" n="24" color="1" from="P6" to="P4">Line segment from P6 to P4</Segment>
+<PointOn name="P7" n="25" color="2" on="c1" alpha="-2.8027982951981536" x="-0.9431560461644148" y="-0.33235022579127" shape="circle">Point on an Object</PointOn>
+<Segment name="s5" n="28" color="1" from="P7" to="P4">Line segment from P7 to P4</Segment>
+<Segment name="s6" n="31" color="1" from="P7" to="P5">Line segment from P7 to P5</Segment>
+<PointOn name="P8" n="32" color="2" on="c1" alpha="-2.084195377878216" x="-0.49114092424783506" y="-0.8710801297980469" shape="circle">Point on an Object</PointOn>
+<Segment name="s7" n="35" color="1" from="P8" to="P4">Line segment from P8 to P4</Segment>
+<Segment name="s8" n="38" color="1" from="P8" to="P5">Line segment from P8 to P5</Segment>
+</Objects>
+</Construction>
+</CaR>
