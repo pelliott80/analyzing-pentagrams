@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="secant.svg">
+   sodipodi:docname="secant-angle.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,7 +23,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="103.84941"
+     inkscape:cx="-94.007733"
      inkscape:cy="260.97143"
      inkscape:document-units="px"
      inkscape:current-layer="layer10"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -232,7 +232,7 @@
        transform="translate(-248.27217,-48.31612)" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="line">
@@ -378,7 +378,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="line-label"
-     style="display:inline">
+     style="display:none">
     <g
        transform="matrix(0.82915717,0,0,0.82915717,18.948501,-25.369753)"
        id="g3564">

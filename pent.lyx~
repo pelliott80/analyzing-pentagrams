@@ -978,7 +978,7 @@ The General Case
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename stradle-hide.svg
+	filename stradle-hide-tr.svg
 	scale 10
 
 \end_inset
@@ -992,7 +992,7 @@ The General Case
 
 \begin_layout ColumnsTopAligned
 \begin_inset Graphics
-	filename stradle-line.svg
+	filename stradle-line-tr.svg
 	scale 10
 
 \end_inset
@@ -1036,14 +1036,14 @@ The General Case
 
 \begin_layout Proof
 \begin_inset Graphics
-	filename stradle-hide.svg
+	filename stradle-hide-tr.svg
 	scale 10
 
 \end_inset
 
 
 \begin_inset Graphics
-	filename stradle-line.svg
+	filename stradle-line-tr.svg
 	scale 10
 
 \end_inset
