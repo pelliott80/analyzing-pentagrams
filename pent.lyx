@@ -1294,6 +1294,91 @@ The angles
 
 \end_layout
 
+\begin_layout BeginFrame
+We now begin on the pentagram
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename mult.svg
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+There is a pentagon here two
+\end_layout
+
+\begin_layout Standard
+There is an inscribed regular pentagon here too!
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename pent-w-gon.svg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And that pentagon can be sliced into pie slices from the center.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename pentagon-pie.svg
+	scale 15
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+Central angle pie slices are all 
+\begin_inset Formula $72^{\circ}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename pentagon-pie-angle.svg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Theorem
+The central ange pie slices of a regular pentagon are all 
+\begin_inset Formula $72^{\circ}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Proof
+The exterior sides are all of equal length because the pentagon is regular.
+ The slice cuts from the center are all equal because they are all radii.
+ Thus by SSS, the slices are all congruent and the central angles are all
+ equal.
+ 
+\begin_inset Formula $\frac{360^{\circ}}{5}=72^{\circ}$
+\end_inset
+
+
+\end_layout
+
 \begin_layout EndFrame
 
 \end_layout
