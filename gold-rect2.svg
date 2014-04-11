@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="845"
-   height="586"
+   width="175"
+   height="230"
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -50,32 +50,36 @@
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2985" />
-  <line
-     x1="447.55805020012065"
-     y1="186.93273562810464"
-     x2="321.38866638771003"
-     y2="186.93273562810464"
-     style="stroke:rgb(0, 124, 0);stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
-     id="line2987" />
-  <line
-     x1="447.55805020012065"
-     y1="186.93273562810464"
-     x2="447.55805020012065"
-     y2="376.18681134672045"
-     style="stroke:rgb(0, 124, 0);stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
-     id="line2989" />
-  <line
-     x1="447.55805020012065"
-     y1="376.18681134672045"
-     x2="321.38866638771003"
-     y2="376.18681134672045"
-     style="stroke:rgb(0, 124, 0);stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
-     id="line2991" />
-  <line
-     x1="321.38866638771003"
-     y1="376.18681134672045"
-     x2="321.38866638771003"
-     y2="186.93273562810464"
-     style="stroke:rgb(0, 124, 0);stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
-     id="line2993" />
+  <g
+     id="g3119"
+     transform="translate(-296.32199,-163.32427)">
+    <line
+       id="line2987"
+       style="stroke:#007c00;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+       y2="186.93274"
+       x2="321.38867"
+       y1="186.93274"
+       x1="447.55804" />
+    <line
+       id="line2989"
+       style="stroke:#007c00;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+       y2="376.1868"
+       x2="447.55804"
+       y1="186.93274"
+       x1="447.55804" />
+    <line
+       id="line2991"
+       style="stroke:#007c00;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+       y2="376.1868"
+       x2="321.38867"
+       y1="376.1868"
+       x1="447.55804" />
+    <line
+       id="line2993"
+       style="stroke:#007c00;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+       y2="186.93274"
+       x2="321.38867"
+       y1="376.1868"
+       x1="321.38867" />
+  </g>
 </svg>

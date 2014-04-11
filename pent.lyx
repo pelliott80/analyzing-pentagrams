@@ -90,8 +90,8 @@ Analyzing Pentagrams
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename inscribed-pent.png
-	scale 40
+	filename inscribed-pent.svg
+	scale 30
 
 \end_inset
 
@@ -105,7 +105,7 @@ Intellectual Machinery
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename inscribed-pent.png
+	filename inscribed-pent.svg
 	scale 10
 
 \end_inset
@@ -124,7 +124,8 @@ Golden Rectangle
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename gold-rect2.png
+	filename gold-rect2.svg
+	scale 60
 
 \end_inset
 
@@ -145,7 +146,7 @@ When you cut off a square, what remains has the same proportions.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename chop-arrow-labeled2.png
+	filename chop-arrow-labeled2.svg
 	scale 15
 
 \end_inset
@@ -816,8 +817,8 @@ An angle
 \end_deeper
 \begin_layout ColumnsTopAligned
 \begin_inset Graphics
-	filename thales.png
-	scale 10
+	filename thales.svg
+	scale 20
 
 \end_inset
 
@@ -839,8 +840,8 @@ Geometers are tricky
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename special-case.png
-	scale 40
+	filename special-case.svg
+	scale 20
 
 \end_inset
 

@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="744.09448"
+   height="600"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
@@ -43,21 +43,23 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1" />
+     inkscape:label="Layer 1"
+     transform="translate(0,-452.36218)" />
   <g
      style="display:inline"
      inkscape:label="ball"
      id="layer3"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(0,-452.36218)">
     <path
-       transform="translate(-31.428571,-5.7142857)"
+       transform="translate(-31.428571,222.85714)"
        sodipodi:end="5.3502973"
        sodipodi:start="4.4329663"
        d="m 323.81035,257.56317 a 281.42856,281.42856 0 0 1 245.21353,44.4296 L 401.42856,528.07648 z"
@@ -76,15 +78,17 @@
      style="display:none"
      inkscape:label="hide2"
      id="layer5"
-     inkscape:groupmode="layer" />
+     inkscape:groupmode="layer"
+     transform="translate(0,-452.36218)" />
   <g
      inkscape:label="case"
      id="layer2"
      inkscape:groupmode="layer"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,-452.36218)">
     <g
        id="g4172"
-       transform="translate(-54.28571,251.42857)"
+       transform="translate(-54.28571,480)"
        inkscape:export-filename="/home/pekub1104/personal/pentagram/special-case.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -107,7 +111,7 @@
            style="fill:#000000;stroke-width:0" /></g>    </g>
     <g
        id="g4364"
-       transform="translate(60,68.571429)"
+       transform="translate(60,297.14286)"
        inkscape:export-filename="/home/pekub1104/personal/pentagram/special-case.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -137,163 +141,164 @@
      style="display:none"
      inkscape:label="hide"
      id="layer4"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(0,-452.36218)">
     <line
        id="line3094"
-       style="display:inline;stroke:#000000;stroke-width:1.33961891999999994"
+       style="stroke:#000000;stroke-width:1.33961892;display:inline"
        y2="916.29865"
        x2="366.74249"
        y1="131.28198"
        x1="366.74249" />
     <line
        id="line3096"
-       style="display:inline;stroke:#000000;stroke-width:1.33961891999999994"
+       style="stroke:#000000;stroke-width:1.33961892;display:inline"
        y2="523.79034"
        x2="761.93005"
        y1="523.79034"
        x1="-28.44508" />
     <line
        id="line3100"
-       style="display:inline;stroke:#000000;stroke-width:1.33961891999999994"
+       style="stroke:#000000;stroke-width:1.33961892;display:inline"
        y2="529.1488"
        x2="-190.53897"
        y1="518.43182"
        x1="-190.53897" />
     <text
        id="text3098"
-       style="display:inline;font-size:16.07542610000000138px;font-weight:normal;fill:#000000"
+       style="font-size:16.0754261px;font-weight:normal;fill:#000000;display:inline"
        y="555.94116"
        x="-203.93515">-2</text>
     <text
        id="text3102"
-       style="display:inline;font-size:16.07542610000000138px;font-weight:normal;fill:#000000"
+       style="font-size:16.0754261px;font-weight:normal;fill:#000000;display:inline"
        y="555.94116"
        x="-78.010979">-1.5</text>
     <line
        id="line3108"
-       style="display:inline;stroke:#000000;stroke-width:1.33961891999999994"
+       style="stroke:#000000;stroke-width:1.33961892;display:inline"
        y2="529.1488"
        x2="86.762146"
        y1="518.43182"
        x1="86.762146" />
     <text
        id="text3106"
-       style="display:inline;font-size:16.07542610000000138px;font-weight:normal;fill:#000000"
+       style="font-size:16.0754261px;font-weight:normal;fill:#000000;display:inline"
        y="555.94116"
        x="73.365959">-1</text>
     <text
        id="text3110"
-       style="display:inline;font-size:16.07542610000000138px;font-weight:normal;fill:#000000"
+       style="font-size:16.0754261px;font-weight:normal;fill:#000000;display:inline"
        y="555.94116"
        x="205.98824">-.5</text>
     <line
        id="line3112"
-       style="display:inline;stroke:#000000;stroke-width:1.33961891999999994"
+       style="stroke:#000000;stroke-width:1.33961892;display:inline"
        y2="529.1488"
        x2="226.08252"
        y1="518.43182"
        x1="226.08252" />
     <text
        id="text3138"
-       style="display:inline;font-size:16.07542610000000138px;font-weight:normal;fill:#000000"
+       style="font-size:16.0754261px;font-weight:normal;fill:#000000;display:inline"
        y="401.88501"
        x="333.25201">.5</text>
     <line
        id="line3140"
-       style="display:inline;stroke:#000000;stroke-width:1.33961891999999994"
+       style="stroke:#000000;stroke-width:1.33961892;display:inline"
        y2="383.13034"
        x2="372.10098"
        y1="383.13034"
        x1="361.38403" />
     <line
        id="line3144"
-       style="display:inline;stroke:#000000;stroke-width:1.33961891999999994"
+       style="stroke:#000000;stroke-width:1.33961892;display:inline"
        y2="243.80998"
        x2="372.10098"
        y1="243.80998"
        x1="361.38403" />
     <text
        id="text3142"
-       style="display:inline;font-size:16.07542610000000138px;font-weight:normal;fill:#000000"
+       style="font-size:16.0754261px;font-weight:normal;fill:#000000;display:inline"
        y="262.56464"
        x="346.64822">1</text>
     <line
        id="line3116"
-       style="display:inline;stroke:#000000;stroke-width:1.33961891999999994"
+       style="stroke:#000000;stroke-width:1.33961892;display:inline"
        y2="529.1488"
        x2="506.06287"
        y1="518.43182"
        x1="506.06287" />
     <text
        id="text3114"
-       style="display:inline;font-size:16.07542610000000138px;font-weight:normal;fill:#000000"
+       style="font-size:16.0754261px;font-weight:normal;fill:#000000;display:inline"
        y="555.94116"
        x="492.66669">.5</text>
     <text
        id="text3118"
-       style="display:inline;font-size:16.07542610000000138px;font-weight:normal;fill:#000000"
+       style="font-size:16.0754261px;font-weight:normal;fill:#000000;display:inline"
        y="555.94116"
        x="638.68512">1</text>
     <line
        id="line3120"
-       style="display:inline;stroke:#000000;stroke-width:1.33961891999999994"
+       style="stroke:#000000;stroke-width:1.33961892;display:inline"
        y2="529.1488"
        x2="645.38324"
        y1="518.43182"
        x1="645.38324" />
     <text
        id="text3134"
-       style="display:inline;font-size:16.07542610000000138px;font-weight:normal;fill:#000000"
+       style="font-size:16.0754261px;font-weight:normal;fill:#000000;display:inline"
        y="681.86536"
        x="319.85583">-.5</text>
     <line
        id="line3136"
-       style="display:inline;stroke:#000000;stroke-width:1.33961891999999994"
+       style="stroke:#000000;stroke-width:1.33961892;display:inline"
        y2="663.11072"
        x2="372.10098"
        y1="663.11072"
        x1="361.38403" />
     <line
        id="line3132"
-       style="display:inline;stroke:#000000;stroke-width:1.33961891999999994"
+       style="stroke:#000000;stroke-width:1.33961892;display:inline"
        y2="802.43103"
        x2="372.10098"
        y1="802.43103"
        x1="361.38403" />
     <text
        id="text3130"
-       style="display:inline;font-size:16.07542610000000138px;font-weight:normal;fill:#000000"
+       style="font-size:16.0754261px;font-weight:normal;fill:#000000;display:inline"
        y="821.18573"
        x="333.25201">-1</text>
     <line
        id="line3128"
-       style="display:inline;stroke:#000000;stroke-width:1.33961891999999994"
+       style="stroke:#000000;stroke-width:1.33961892;display:inline"
        y2="941.7514"
        x2="372.10098"
        y1="941.7514"
        x1="361.38403" />
     <text
        id="text3126"
-       style="display:inline;font-size:16.07542610000000138px;font-weight:normal;fill:#000000"
+       style="font-size:16.0754261px;font-weight:normal;fill:#000000;display:inline"
        y="960.5061"
        x="306.45966">-1.5</text>
     <line
        id="line3104"
-       style="display:inline;stroke:#000000;stroke-width:1.33961891999999994"
+       style="stroke:#000000;stroke-width:1.33961892;display:inline"
        y2="529.1488"
        x2="-51.218601"
        y1="518.43182"
        x1="-51.218601" />
     <line
        id="line3124"
-       style="display:inline;stroke:#000000;stroke-width:1.33961891999999994"
+       style="stroke:#000000;stroke-width:1.33961892;display:inline"
        y2="1081.0718"
        x2="372.10098"
        y1="1081.0718"
        x1="361.38403" />
     <text
        id="text3122"
-       style="display:inline;font-size:16.07542610000000138px;font-weight:normal;fill:#000000"
+       style="font-size:16.0754261px;font-weight:normal;fill:#000000;display:inline"
        y="1099.8264"
        x="333.25201">-2</text>
   </g>
@@ -301,13 +306,15 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="diag"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,-452.36218)">
     <g
        style="stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
        id="g4126"
        inkscape:export-filename="/home/pekub1104/personal/pentagram/special-case.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(0,228.57143)">
       <line
          x1="196.13902"
          y1="744.09717"
@@ -335,9 +342,10 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="circle"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,-452.36218)">
     <ellipse
-       transform="matrix(1.3396189,0,0,1.3396189,-28.445079,131.28199)"
+       transform="matrix(1.3396189,0,0,1.3396189,-28.445079,359.85342)"
        id="ellipse3146"
        style="fill:none;stroke:#007c7c;stroke-width:3.98620844;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
        ry="208"

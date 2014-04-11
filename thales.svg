@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="744.09448"
+   height="700"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="thales.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.76015625"
-     inkscape:cx="142.81089"
-     inkscape:cy="520"
+     inkscape:zoom="0.26875582"
+     inkscape:cx="87.065132"
+     inkscape:cy="432.42183"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1024"
+     inkscape:window-height="678"
      inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:window-y="32"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -43,55 +43,61 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1"
+     transform="translate(0,-352.36218)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="thales">
-    <ellipse
-       d="m 545.37194,314.5 c 0,67.58416 -54.78778,122.37194 -122.37194,122.37194 -67.58416,0 -122.37194,-54.78778 -122.37194,-122.37194 0,-67.58416 54.78778,-122.37194 122.37194,-122.37194 67.58416,0 122.37194,54.78778 122.37194,122.37194 z"
-       sodipodi:ry="122.37194"
-       sodipodi:rx="122.37194"
-       sodipodi:cy="314.5"
-       sodipodi:cx="423"
-       cx="423"
-       cy="314.5"
-       rx="122.37194"
-       ry="122.37194"
-       style="fill:none;stroke:#007c7c;stroke-width:2.27573729;stroke-miterlimit:4;stroke-dasharray:none"
-       id="ellipse3042"
-       transform="matrix(2.3517653,0,0,2.3517653,-606.32101,-157.37998)" />
+     inkscape:label="thales"
+     transform="translate(0,-352.36218)">
     <g
-       id="g3066"
-       style="stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none">
-      <line
-         id="line3044"
-         style="stroke:#007c00;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
-         y2="582.25018"
-         x2="100.68561"
-         y1="582.25018"
-         x1="676.26581" />
-      <line
-         id="line3046"
-         style="stroke:#007c00;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
-         y2="582.25018"
-         x2="100.68561"
-         y1="350.13623"
-         x1="558.61157" />
-      <line
-         id="line3048"
-         style="stroke:#007c00;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
-         y2="582.25018"
-         x2="676.26581"
-         y1="350.13623"
-         x1="558.61157" />
+       id="g3045"
+       transform="translate(-26.045948,104.18379)">
+      <ellipse
+         transform="matrix(2.3517653,0,0,2.3517653,-606.32101,-157.37998)"
+         id="ellipse3042"
+         style="fill:none;stroke:#007c7c;stroke-width:2.27573729;stroke-miterlimit:4;stroke-dasharray:none"
+         ry="122.37194"
+         rx="122.37194"
+         cy="314.5"
+         cx="423"
+         sodipodi:cx="423"
+         sodipodi:cy="314.5"
+         sodipodi:rx="122.37194"
+         sodipodi:ry="122.37194"
+         d="m 545.37194,314.5 c 0,67.58416 -54.78778,122.37194 -122.37194,122.37194 -67.58416,0 -122.37194,-54.78778 -122.37194,-122.37194 0,-67.58416 54.78778,-122.37194 122.37194,-122.37194 67.58416,0 122.37194,54.78778 122.37194,122.37194 z" />
+      <g
+         style="stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+         id="g3066">
+        <line
+           x1="676.26581"
+           y1="582.25018"
+           x2="100.68561"
+           y2="582.25018"
+           style="stroke:#007c00;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line3044" />
+        <line
+           x1="558.61157"
+           y1="350.13623"
+           x2="100.68561"
+           y2="582.25018"
+           style="stroke:#007c00;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line3046" />
+        <line
+           x1="558.61157"
+           y1="350.13623"
+           x2="676.26581"
+           y2="582.25018"
+           style="stroke:#007c00;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line3048" />
+      </g>
     </g>
   </g>
 </svg>
