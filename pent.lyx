@@ -506,7 +506,7 @@ Consider the triangles
 \begin_inset Formula $\angle ACB=\angle DCB$
 \end_inset
 
- and the adjacent sides are in proportion, therefore by the SAS Similarity
+ and the adjacent sides are in proportion, therefore by the ASS Similarity
  Theorem, the two triangles are similar.
  
 \begin_inset Formula $\triangle ACB\backsim\triangle BCD$
@@ -666,7 +666,7 @@ So all golden triangles are
 \end_layout
 
 \begin_layout BeginFrame
-Remember the other triangle? It is a Golden Gnomon
+Remember the other triangle? It is a Golden Gnomonic
 \end_layout
 
 \begin_layout ColumnsTopAligned
@@ -729,13 +729,13 @@ It is an isosceles triangle with base angles
 
 \begin_deeper
 \begin_layout Definition
-The Golden Gnomon, is an isosceles triangle such that the ratio of the base
- to the adjacent sides is equal to the Golden Ratio.
+The Golden Gnomonic, is an isosceles triangle such that the ratio of the
+ base to the adjacent sides is equal to the Golden Ratio.
  
 \end_layout
 
 \begin_layout Standard
-The golden gnomon has angles 
+The golden gnomonic has angles 
 \begin_inset Formula $36$
 \end_inset
 
@@ -752,7 +752,7 @@ The golden gnomon has angles
 
 \end_deeper
 \begin_layout BeginFrame
-The Golden Gnomon can also be dissected
+The Golden Gnomonic can also be dissected
 \end_layout
 
 \begin_layout Standard
@@ -766,13 +766,13 @@ The Golden Gnomon can also be dissected
 \end_layout
 
 \begin_layout Standard
-The Golden Gnomon can also be dissected, just as the Golden Triangle can.
- It breaks into a Golden Triangle and another Golden Gnomon, just as the
- Golden Triangle breaks into a Golden Gnomon and a Golden Triangle.
+The Golden Gnomonic can also be dissected, just as the Golden Triangle can.
+ It breaks into a Golden Triangle and another Golden Gnomonic, just as the
+ Golden Triangle breaks into a Golden Gnomonic and a Golden Triangle.
 \end_layout
 
 \begin_layout Standard
-This is important in Penrose tilings.
+This is important in Pen rose tilings.
 \end_layout
 
 \begin_layout BeginFrame
@@ -1360,7 +1360,7 @@ Central angle pie slices are all
 \end_layout
 
 \begin_layout Theorem
-The central ange pie slices of a regular pentagon are all 
+The central angle pie slices of a regular pentagon are all 
 \begin_inset Formula $72^{\circ}$
 \end_inset
 
@@ -1377,6 +1377,300 @@ The exterior sides are all of equal length because the pentagon is regular.
 \end_inset
 
 
+\end_layout
+
+\begin_layout BeginFrame
+The regular pentagram vertex angles are 
+\begin_inset Formula $36^{\circ}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Theorem
+The regular pentagram vertex angles are 
+\begin_inset Formula $36^{\circ}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename pentagram-pentagon-pie-angle.svg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Proof
+The vertex angles span the same arcs as the 
+\begin_inset Formula $72^{\circ}$
+\end_inset
+
+ central angles.
+ Inscribed angle theorem.
+\end_layout
+
+\begin_layout BeginFrame
+The angles between the pentagon sides and the pentagram sides are also 
+\begin_inset Formula $36^{\circ}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Theorem
+The angles between the pentagon sides and the pentagram sides are also 
+\begin_inset Formula $36^{\circ}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename pentagram-pentagon-pie-slop-angle.svg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Proof
+The angles between the pentagon sides and the pentagram sides span the same
+ arcs as the 
+\begin_inset Formula $72^{\circ}$
+\end_inset
+
+ central angles.
+ Inscribed angle theorem.
+\end_layout
+
+\begin_layout BeginFrame
+The secant angles where pentagram sides cross are 
+\begin_inset Formula $72^{\circ}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Theorem
+The secant angles where pentagram sides cross are 
+\begin_inset Formula $72^{\circ}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename pentagram-secant-angle.svg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Proof
+the intercepted arcs are both 
+\begin_inset Formula $72^{\circ}$
+\end_inset
+
+.
+ Secant angle theorem.
+\end_layout
+
+\begin_layout BeginFrame
+The interior pentagon angles are 
+\begin_inset Formula $108^{\circ}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Theorem
+The interior pentagon angles are 
+\begin_inset Formula $108^{\circ}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename interior-pentagon-angle.svg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Proof
+Supplemental angles to 
+\begin_inset Formula $72^{\circ}$
+\end_inset
+
+angles.
+\end_layout
+
+\begin_layout BeginFrame
+The exterior pentagon angles are 
+\begin_inset Formula $108^{\circ}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Theorem
+The exterior angles of a regular pentagon are 
+\begin_inset Formula $108^{\circ}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ext-pentagon-angle.svg
+	scale 10
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename pentagram-pentagon-ins-angle.svg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Proof
+\begin_inset Formula $3\cdot36^{\circ}=108^{\circ}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+We have now figured out all the angles of the inscribed pentagram and pentagon.
+\end_layout
+
+\begin_layout Standard
+Let us take a rest and notice how beautiful the pentagram is.
+ I like them.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename mult.svg
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+Golden Triangles in Pentagrams
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename wedge2.svg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The big wedges are 
+\begin_inset Formula $36^{\circ}$
+\end_inset
+
+, 
+\begin_inset Formula $72^{\circ}$
+\end_inset
+
+, 
+\begin_inset Formula $72^{\circ}$
+\end_inset
+
+ and so are Golden Triangles.
+ There are five of these big triangles in the pentagram.
+ The triangle are isosceles, so all the strokes of the pentagram are the
+ same length.
+ The ratio of the length of a stroke of the pentagram to the length of the
+ side of the regular pentagon is 
+\begin_inset Formula $\phi$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout BeginFrame
+Big Gnomon
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename gno3.svg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There are 5 of these big Gnomons in the pentagram.
+ It is a gnomon because the angles are 
+\begin_inset Formula $36^{\circ}$
+\end_inset
+
+, 
+\begin_inset Formula $36^{\circ}$
+\end_inset
+
+, 
+\begin_inset Formula $72^{\circ}$
+\end_inset
+
+.
+ The short sides are sides that start at a vertex cross one secant angle
+ and stop at the other secant angle.
+ There are 10 of these 
+\begin_inset Quotes eld
+\end_inset
+
+one secant angle crossers
+\begin_inset Quotes erd
+\end_inset
+
+ in the pentagram.
+ They are all the same length.
+ The ratio of the length of a pentagon stroke to the length of a 
+\begin_inset Quotes eld
+\end_inset
+
+one secant angle crossers
+\begin_inset Quotes erd
+\end_inset
+
+ is 
+\begin_inset Formula $\phi$
+\end_inset
+
+.
 \end_layout
 
 \begin_layout EndFrame
