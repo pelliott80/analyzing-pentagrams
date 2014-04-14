@@ -506,7 +506,7 @@ Consider the triangles
 \begin_inset Formula $\angle ACB=\angle DCB$
 \end_inset
 
- and the adjacent sides are in proportion, therefore by the ASS Similarity
+ and the adjacent sides are in proportion, therefore by the SAS Similarity
  Theorem, the two triangles are similar.
  
 \begin_inset Formula $\triangle ACB\backsim\triangle BCD$
@@ -752,7 +752,7 @@ The golden gnomon has angles
 
 \end_deeper
 \begin_layout BeginFrame
-The Golden Gnomonic can also be dissected
+The Golden Gnomon can also be dissected
 \end_layout
 
 \begin_layout Standard
@@ -772,7 +772,7 @@ The Golden Gnomon can also be dissected, just as the Golden Triangle can.
 \end_layout
 
 \begin_layout Standard
-This is important in Pen rose tilings.
+This is important in Penrose tilings.
 \end_layout
 
 \begin_layout BeginFrame
