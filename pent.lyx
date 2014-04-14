@@ -666,7 +666,7 @@ So all golden triangles are
 \end_layout
 
 \begin_layout BeginFrame
-Remember the other triangle? It is a Golden Gnomonic
+Remember the other triangle? It is a Golden Gnomon
 \end_layout
 
 \begin_layout ColumnsTopAligned
@@ -729,13 +729,13 @@ It is an isosceles triangle with base angles
 
 \begin_deeper
 \begin_layout Definition
-The Golden Gnomonic, is an isosceles triangle such that the ratio of the
- base to the adjacent sides is equal to the Golden Ratio.
+The Golden Gnomon, is an isosceles triangle such that the ratio of the base
+ to the adjacent sides is equal to the Golden Ratio.
  
 \end_layout
 
 \begin_layout Standard
-The golden gnomonic has angles 
+The golden gnomon has angles 
 \begin_inset Formula $36$
 \end_inset
 
@@ -766,9 +766,9 @@ The Golden Gnomonic can also be dissected
 \end_layout
 
 \begin_layout Standard
-The Golden Gnomonic can also be dissected, just as the Golden Triangle can.
- It breaks into a Golden Triangle and another Golden Gnomonic, just as the
- Golden Triangle breaks into a Golden Gnomonic and a Golden Triangle.
+The Golden Gnomon can also be dissected, just as the Golden Triangle can.
+ It breaks into a Golden Triangle and another Golden Gnomon, just as the
+ Golden Triangle breaks into a Golden Gnomon and a Golden Triangle.
 \end_layout
 
 \begin_layout Standard
@@ -1632,7 +1632,7 @@ Big Gnomon
 \end_layout
 
 \begin_layout Standard
-There are 5 of these big Gnomons in the pentagram.
+There are 5 of these big Gnomon in the pentagram.
  It is a gnomon because the angles are 
 \begin_inset Formula $36^{\circ}$
 \end_inset
@@ -1671,6 +1671,252 @@ one secant angle crossers
 \end_inset
 
 .
+\end_layout
+
+\begin_layout BeginFrame
+outside Golden Triangle
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename side-wedge.svg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There are 10 of these Golden Triangles at the edge of the pentagram.
+ They show that the length of a 
+\begin_inset Quotes eld
+\end_inset
+
+one secant angle crossers
+\begin_inset Quotes erd
+\end_inset
+
+ is equal to length of a pentagon side.
+\end_layout
+
+\begin_layout BeginFrame
+Gnomon outside the pentagram
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename bot-gno.svg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There are five of these Golden Gnomon.
+ They are isosceles triangles, they show that the lengths from a vertex
+ to the a secant angle is always the same.
+\end_layout
+
+\begin_layout BeginFrame
+Anyone want to join Star Fleet?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename sfleet.svg
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Star Fleet invokes the pentagram!
+\end_layout
+
+\begin_layout BeginFrame
+Inner and outer pentagon
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename side-star-point.svg
+	scale 15
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Triangles 
+\begin_inset Formula $\vartriangle CBA$
+\end_inset
+
+, and 
+\begin_inset Formula $\vartriangle ADB$
+\end_inset
+
+ are Golden triangles.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{eqnarray*}
+\phi & = & \frac{\overline{AB}}{\overline{BD}}=\frac{\overline{AC}}{\overline{AB}}\\
+\phi\,\overline{BD} & = & \overline{AB}\\
+\phi\,\overline{AB} & = & \overline{AC}
+\end{eqnarray*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+Inner and outer pentagon
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename side-star-point.svg
+	scale 15
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{eqnarray*}
+\phi\,\left(\phi\,\overline{BD}\right) & = & \overline{AC}\\
+\phi^{2}\,\overline{BD} & = & \overline{AC}\\
+\phi^{2} & = & \frac{\overline{AC}}{\overline{BD}}
+\end{eqnarray*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+Inner and outer pentagon
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename side-star-point-pent.svg
+	scale 15
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+So the ratio of size of the outer pentagon to the size of the inner pentagon
+ is 
+\begin_inset Formula $\phi^{2}$
+\end_inset
+
+.
+ And all the inner pentagon sides are equal in length.
+\begin_inset Formula 
+\[
+\phi^{2}=2.618033990...
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+inverted pentagram?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename inner-mult.svg
+	scale 15
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Wherever there is a point up pentagram, there an 
+\begin_inset Quotes eld
+\end_inset
+
+inverted
+\begin_inset Quotes erd
+\end_inset
+
+ pentagram.
+ The first to suggest that the inverted pantagram was 
+\begin_inset Quotes eld
+\end_inset
+
+evil
+\begin_inset Quotes erd
+\end_inset
+
+ was Eliphas Levi in the 19th century.
+ This is not an ancient belief.
+ We have ancient coinage with 
+\begin_inset Quotes eld
+\end_inset
+
+inverted
+\begin_inset Quotes erd
+\end_inset
+
+ pentagrams.
+ Pentagrams denoted 
+\begin_inset Quotes eld
+\end_inset
+
+health
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Don't talk to me about 
+\begin_inset Quotes eld
+\end_inset
+
+Satanism
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Satanism
+\begin_inset Quotes erd
+\end_inset
+
+ is an insignificant boil on the butt of history.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Satanism
+\begin_inset Quotes erd
+\end_inset
+
+ exists only to give Christains something to be outraged at and to give
+ teenages a way of rebeling against their parents.
+ It should not be considered by serious people.
 \end_layout
 
 \begin_layout EndFrame
