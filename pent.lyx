@@ -624,11 +624,11 @@ But the sum of the three angles of a triangle is two straight angles.
  So:
 \begin_inset Formula 
 \begin{eqnarray*}
-\measuredangle BAC+\measuredangle ABC+\measuredangle ACB & = & 180\\
-\measuredangle BAC+2\,\measuredangle BAC+2\,\measuredangle BAC & = & 180\\
-5\,\measuredangle BAC & = & 180\\
-\measuredangle BAC & = & 36\\
-\measuredangle ABC & = & \measuredangle ACB=2\,\measuredangle BAC=72
+\measuredangle BAC+\measuredangle ABC+\measuredangle ACB & = & 180^{\circ}\\
+\measuredangle BAC+2\,\measuredangle BAC+2\,\measuredangle BAC & = & 180^{\circ}\\
+5\,\measuredangle BAC & = & 180^{\circ}\\
+\measuredangle BAC & = & 36^{\circ}\\
+\measuredangle ABC & = & \measuredangle ACB=2\,\measuredangle BAC=72^{\circ}
 \end{eqnarray*}
 
 \end_inset
@@ -638,28 +638,28 @@ But the sum of the three angles of a triangle is two straight angles.
 
 \begin_layout Standard
 So all golden triangles are 
-\begin_inset Formula $36$
+\begin_inset Formula $36^{\circ}$
 \end_inset
 
 , 
-\begin_inset Formula $72$
+\begin_inset Formula $72^{\circ}$
 \end_inset
 
 , 
-\begin_inset Formula $72$
+\begin_inset Formula $72^{\circ}$
 \end_inset
 
  triangles.
  Any other 
-\begin_inset Formula $36$
+\begin_inset Formula $36^{\circ}$
 \end_inset
 
 , 
-\begin_inset Formula $72$
+\begin_inset Formula $72^{\circ}$
 \end_inset
 
 , 
-\begin_inset Formula $72$
+\begin_inset Formula $72^{\circ}$
 \end_inset
 
  triangle would be similar to this one, and hence a golden triangle.
@@ -691,12 +691,12 @@ Remember the other triangle? It is a Golden Gnomon
 \end_deeper
 \begin_layout ColumnsTopAligned
 It is an isosceles triangle with base angles 
-\begin_inset Formula $36$
+\begin_inset Formula $36^{\circ}$
 \end_inset
 
  degrees.
  The vertex angle must therefore be 
-\begin_inset Formula $108$
+\begin_inset Formula $108^{\circ}$
 \end_inset
 
  degrees.
@@ -736,15 +736,15 @@ The Golden Gnomon, is an isosceles triangle such that the ratio of the base
 
 \begin_layout Standard
 The golden gnomon has angles 
-\begin_inset Formula $36$
+\begin_inset Formula $36^{\circ}$
 \end_inset
 
 , 
-\begin_inset Formula $36$
+\begin_inset Formula $36^{\circ}$
 \end_inset
 
 , 
-\begin_inset Formula $108$
+\begin_inset Formula $108^{\circ}$
 \end_inset
 
  as we have seen.
@@ -828,7 +828,11 @@ An angle
 \begin_deeper
 \begin_layout Standard
 The Greek Philosopher Thales was the first to prove a special case of this
- theorem, when the central angle is 180 degrees.
+ theorem, when the central angle is 
+\begin_inset Formula $180^{\circ}$
+\end_inset
+
+ degrees.
  He sacrificed a bullock for the discovery of his theorem.
 \end_layout
 
@@ -1860,7 +1864,7 @@ inverted
 \end_inset
 
  pentagram.
- The first to suggest that the inverted pantagram was 
+ The first to suggest that the inverted pentagram was 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1914,9 +1918,117 @@ Satanism
 \begin_inset Quotes erd
 \end_inset
 
- exists only to give Christains something to be outraged at and to give
- teenages a way of rebeling against their parents.
+ exists only to give Christians something to be outraged at and to give
+ teenagers a way of rebelling against their parents.
  It should not be considered by serious people.
+\end_layout
+
+\begin_layout BeginFrame
+Pentagram and Circle
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename center-split.svg
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+To learn more about the relationship between the pentagram and its circle,
+ split the pentagram and circle in half!
+\end_layout
+
+\begin_layout BeginFrame
+Golden Triangle with vertex at the center of the circle
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename sidegt.svg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Consider the triangle 
+\begin_inset Formula $\vartriangle CMD$
+\end_inset
+
+.
+ The angle 
+\begin_inset Formula $\angle MCD$
+\end_inset
+
+ measures 
+\begin_inset Formula $36^{\circ}$
+\end_inset
+
+, as it is a result of a bisection of the 
+\begin_inset Formula $72^{\circ}$
+\end_inset
+
+angle 
+\begin_inset Formula $\angle FCD$
+\end_inset
+
+.
+ The triangle is isosceles as two sides are radii of length 
+\begin_inset Formula $r$
+\end_inset
+
+.
+ So it is a 
+\begin_inset Formula $36^{\circ},$
+\end_inset
+
+ 
+\begin_inset Formula $72^{\circ}$
+\end_inset
+
+, 
+\begin_inset Formula $72^{\circ}$
+\end_inset
+
+ triangle and a Golden Triangle.
+\begin_inset Formula 
+\begin{eqnarray*}
+\phi & = & \frac{r}{\overline{MD}}\\
+\overline{MD} & = & \frac{1}{\phi}\, r\\
+ & = & \Phi\, r
+\end{eqnarray*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+Regular Decagon
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename 10gon.svg
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Circles with radius 
+\begin_inset Formula $r\,\Phi$
+\end_inset
+
+ can be used to construct a regular decagon (10gon).
 \end_layout
 
 \begin_layout EndFrame
