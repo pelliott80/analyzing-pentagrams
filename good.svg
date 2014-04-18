@@ -1,11 +1,112 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" width="1101" height="629">
-<ellipse cx="550.5" cy="314.5" rx="273.06723940623635" ry="273.06723940623635" style="stroke:rgb(0,0,178);fill:none;stroke-width:3"/>
-<line x1="550.5" y1="41.432760593763646" x2="389.9951037927962" y2="535.4160372866976" style="stroke:rgb(0,124,0);stroke-width:1"/>
-<line x1="711.0048962072038" y1="535.4160372866976" x2="550.5" y2="41.432760593763646" style="stroke:rgb(0,124,0);stroke-width:1"/>
-<line x1="389.9951037927962" y1="535.4160372866976" x2="810.2023774240298" y2="230.11758241642065" style="stroke:rgb(0,124,0);stroke-width:1"/>
-<line x1="810.2023774240298" y1="230.11758241642065" x2="290.7976225759702" y2="230.1175824164207" style="stroke:rgb(0,124,0);stroke-width:1"/>
-<line x1="290.7976225759702" y1="230.1175824164207" x2="711.0048962072038" y2="535.4160372866976" style="stroke:rgb(0,124,0);stroke-width:1"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1101"
+   height="629"
+   id="svg4931"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="good.svg">
+  <metadata
+     id="metadata4949">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+        <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Paul Elliott</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4947" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="652"
+     inkscape:window-height="480"
+     id="namedview4945"
+     showgrid="false"
+     inkscape:zoom="0.34695731"
+     inkscape:cx="550.5"
+     inkscape:cy="314.5"
+     inkscape:window-x="0"
+     inkscape:window-y="35"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4931" />
+  <ellipse
+     cx="550.5"
+     cy="314.5"
+     rx="273.06723940623635"
+     ry="273.06723940623635"
+     style="stroke:rgb(0,0,178);fill:none;stroke-width:3"
+     id="ellipse4933" />
+  <line
+     x1="550.5"
+     y1="41.432760593763646"
+     x2="389.9951037927962"
+     y2="535.4160372866976"
+     style="stroke:rgb(0,124,0);stroke-width:1"
+     id="line4935" />
+  <line
+     x1="711.0048962072038"
+     y1="535.4160372866976"
+     x2="550.5"
+     y2="41.432760593763646"
+     style="stroke:rgb(0,124,0);stroke-width:1"
+     id="line4937" />
+  <line
+     x1="389.9951037927962"
+     y1="535.4160372866976"
+     x2="810.2023774240298"
+     y2="230.11758241642065"
+     style="stroke:rgb(0,124,0);stroke-width:1"
+     id="line4939" />
+  <line
+     x1="810.2023774240298"
+     y1="230.11758241642065"
+     x2="290.7976225759702"
+     y2="230.1175824164207"
+     style="stroke:rgb(0,124,0);stroke-width:1"
+     id="line4941" />
+  <line
+     x1="290.7976225759702"
+     y1="230.1175824164207"
+     x2="711.0048962072038"
+     y2="535.4160372866976"
+     style="stroke:rgb(0,124,0);stroke-width:1"
+     id="line4943" />
 </svg>

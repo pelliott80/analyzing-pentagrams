@@ -23,7 +23,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-90.382464"
+     inkscape:cx="-558.95389"
      inkscape:cy="489.00708"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
@@ -43,8 +43,28 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Paul Elliott</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -62,7 +82,7 @@
        transform="translate(-31.428571,222.85714)"
        sodipodi:end="5.3502973"
        sodipodi:start="4.4329663"
-       d="m 323.81035,257.56317 a 281.42856,281.42856 0 0 1 245.21353,44.4296 L 401.42856,528.07648 z"
+       d="m 323.81035,257.56317 c 84.19803,-24.15889 174.84433,-7.73492 245.21353,44.4296 L 401.42856,528.07648 z"
        sodipodi:ry="281.42856"
        sodipodi:rx="281.42856"
        sodipodi:cy="528.07648"
