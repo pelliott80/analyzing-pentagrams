@@ -804,6 +804,7 @@ The Golden Gnomon can also be dissected
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename gnomon-disect.png
 	scale 50
@@ -919,6 +920,7 @@ Proof of the special case
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename special-case-with-angle.svg
 	scale 10
@@ -1138,6 +1140,7 @@ Secant Angles
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename secant-angle.svg
 	scale 20
@@ -1172,6 +1175,7 @@ Secant Angle Theorem
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename secant-angle-thm.svg
 	scale 20
@@ -1262,6 +1266,7 @@ Secant Angle Theorem
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename secant-angle-thm-pf.svg
 	scale 20
@@ -1311,6 +1316,7 @@ Secant Angle Theorem
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename secant-angle-thm-pf.svg
 	scale 20
@@ -1370,6 +1376,7 @@ There is an inscribed regular pentagon here too!
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename pent-w-gon.svg
 	scale 10
@@ -1384,6 +1391,7 @@ And that pentagon can be sliced into pie slices from the center.
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename pentagon-pie.svg
 	scale 15
@@ -1402,6 +1410,7 @@ Central angle pie slices are all
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename pentagon-pie-angle.svg
 	scale 10
@@ -1448,6 +1457,7 @@ The regular pentagram vertex angles are
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename pentagram-pentagon-pie-angle.svg
 	scale 10
@@ -1483,6 +1493,7 @@ The angles between the pentagon sides and the pentagram sides are also
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename pentagram-pentagon-pie-slop-angle.svg
 	scale 10
@@ -1519,6 +1530,7 @@ The secant angles where pentagram sides cross are
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename pentagram-secant-angle.svg
 	scale 10
@@ -1554,6 +1566,7 @@ The interior pentagon angles are
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename interior-pentagon-angle.svg
 	scale 10
@@ -1588,6 +1601,7 @@ The exterior angles of a regular pentagon are
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename ext-pentagon-angle.svg
 	scale 10
@@ -1621,6 +1635,7 @@ Let us take a rest and notice how beautiful the pentagram is.
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename mult.svg
 	scale 20
@@ -1635,6 +1650,7 @@ Golden Triangles in Pentagrams
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename wedge2.svg
 	scale 10
@@ -1674,6 +1690,7 @@ Big Gnomon
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename gno3.svg
 	scale 10
@@ -1730,6 +1747,7 @@ outside Golden Triangle
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename side-wedge.svg
 	scale 10
@@ -1757,6 +1775,7 @@ Gnomon outside the pentagram
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename bot-gno.svg
 	scale 10
@@ -1777,6 +1796,7 @@ Anyone want to join Star Fleet?
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename sfleet.svg
 	scale 30
@@ -1795,6 +1815,7 @@ Inner and outer pentagon
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename side-star-point.svg
 	scale 15
@@ -1834,6 +1855,7 @@ Inner and outer pentagon
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename side-star-point.svg
 	scale 15
@@ -1861,6 +1883,7 @@ Inner and outer pentagon
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename side-star-point-pent.svg
 	scale 15
@@ -1893,6 +1916,7 @@ inverted pentagram?
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename inner-mult.svg
 	scale 15
@@ -1976,6 +2000,7 @@ Pentagram and Circle
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename center-split.svg
 	scale 20
@@ -1995,6 +2020,7 @@ Golden Triangle with vertex at the center of the circle
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename sidegt.svg
 	scale 10
@@ -2062,6 +2088,7 @@ Regular Decagon
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename 10gon.svg
 	scale 20
@@ -2077,6 +2104,251 @@ Circles with radius
 \end_inset
 
  can be used to construct a regular decagon (10gon).
+\end_layout
+
+\begin_layout BeginFrame
+Gnomon tells about circle and pentagram
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename center-gnomon.svg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Consider this triangle.
+ It is isolease because two sides are radii.
+ It is a 
+\begin_inset Formula $36^{\circ}$
+\end_inset
+
+, 
+\begin_inset Formula $36^{\circ}$
+\end_inset
+
+, 
+\begin_inset Formula $108^{\circ}$
+\end_inset
+
+, so it is a golden Gnomon.
+ The ratio of the length of the long side of the gnomon to the radius is
+ 
+\begin_inset Formula $\phi=\frac{l}{r}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout BeginFrame
+size of circle and pentagon
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename center-gnomon-rt-tri.svg
+	scale 15
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Consider the big yellow triangle.
+ It is a right triangle because of the theorem of Thales.
+ In fact it is a 
+\begin_inset Formula $36^{\circ}$
+\end_inset
+
+, 
+\begin_inset Formula $54^{\circ}$
+\end_inset
+
+, 
+\begin_inset Formula $90^{\circ}$
+\end_inset
+
+ triangle.
+ The hypotenuse is a diameter with length 
+\begin_inset Formula $2\, r$
+\end_inset
+
+.
+ The long leg is 
+\begin_inset Formula $\phi\, r$
+\end_inset
+
+ as we have seen.
+ The other leg we would like to know because it is a side to the regular
+ pentagon.
+ The Pythagorean theorem to the rescue!
+\end_layout
+
+\begin_layout BeginFrame
+Pythagorean theorem
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename center-gnomon-rt-tri.svg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{eqnarray*}
+l^{2}+s^{2} & = & \left(2\, r\right)^{2}\\
+\left(\phi\, r\right)^{2}+s^{2} & = & 4\, r^{2}\\
+s^{2} & = & 4\, r^{2}-\phi^{2}\, r^{2}=\left(4-\phi^{2}\right)\ r^{2}\\
+s & = & r\,\sqrt{4-\phi^{2}}\\
+\frac{s}{r} & = & \sqrt{4-\phi^{2}}=1.175570504........
+\end{eqnarray*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+pentagram and circle
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename center-gnomon-rt-tri.svg
+	scale 15
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Now the ratio of a length stroke of the regular pentagram to the length
+ of a side of the regular pentagon 
+\begin_inset Formula $\frac{p}{s}$
+\end_inset
+
+ is 
+\begin_inset Formula $\phi$
+\end_inset
+
+ as we have seen.
+ So:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{eqnarray*}
+p & = & \phi\, s\\
+p & = & \phi\, r\,\sqrt{4-\phi^{2}}\\
+\frac{p}{r} & = & \phi\,\sqrt{4-\phi^{2}}=1.902113032.....
+\end{eqnarray*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+understanding pentagrams
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename mult.svg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Everything I have told you was known to Euclid.
+ Nevertheless, I believe that pentagrams are an infinite field of study.
+ I believe that our analytic side is fundementally limited so that we can
+ not 
+\begin_inset Quotes eld
+\end_inset
+
+grok
+\begin_inset Quotes erd
+\end_inset
+
+ the full meaning of pentagrams.
+ Nevertheless, the analytic can not be neglected, because the analytic and
+ the intuitive stimulate and complement each other.
+ This is the mystery of Hod and Netzach.
+ It may be that our existance as limited beings prevents us from fully understan
+ding the mystery of pentagrams.
+ Language is a kludge that works for survivial but can not reveal ultimate
+ truth.
+\end_layout
+
+\begin_layout BeginFrame
+The mystery of pentagrams
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename mult.svg
+	scale 15
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I have a hunch that pentagrams are part of the foundations of our existance.
+ It is pentagrams all the way down.
+\end_layout
+
+\begin_layout Standard
+Pentagrams are part of the practice of almost all occult and some religious
+ organizations.
+ Yet try to get a practicioner to tell you why! They can't or won't explain
+ this.
+ And maybe 
+\begin_inset Quotes eld
+\end_inset
+
+can't
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+won't
+\begin_inset Quotes erd
+\end_inset
+
+ are the same thing.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+Pentagram Rule!
 \end_layout
 
 \begin_layout EndFrame
