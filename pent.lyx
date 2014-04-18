@@ -83,10 +83,48 @@ Paul Elliott
 March 2014
 \end_layout
 
+\begin_layout BeginFrame
+License
+\end_layout
+
 \begin_layout Standard
 \align center
 \begin_inset Graphics
 	filename cc_by_30.svg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+This work is licensed under the Creative Commons Attribution 4.0 International
+ License.
+ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.free.blackpatchpanel.com/pme/geometry/pent.pdf
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/pelliott80/analyzing-pentagrams
+\end_layout
 
 \end_inset
 
