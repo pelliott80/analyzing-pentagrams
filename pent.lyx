@@ -1375,7 +1375,43 @@ Secant Angle Theorem
 \begin_inset Formula $\measuredangle IDE+\measuredangle EDF=180^{\circ}$
 \end_inset
 
-So:
+So: 
+\begin_inset Formula $\measuredangle EID+\measuredangle IED=180^{\circ}-\measuredangle IDE$
+\end_inset
+
+.
+ Supplemental angles say 
+\begin_inset Formula $\measuredangle EDF=180^{\circ}-\measuredangle IDE$
+\end_inset
+
+.
+\begin_inset Formula 
+\[
+\measuredangle EID+\measuredangle IED=\measuredangle EDF
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Proof
+\begin_inset Formula $\measuredangle EID=\frac{\measuredangle ECH}{2}$
+\end_inset
+
+, 
+\begin_inset Formula $\measuredangle IED=\frac{\measuredangle ECF}{2}$
+\end_inset
+
+ because of the inscribed angle theorem.
+\begin_inset Formula 
+\[
+\frac{\measuredangle ECH+\measuredangle ECF}{2}=\measuredangle EDF
+\]
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout BeginFrame
