@@ -1396,17 +1396,17 @@ So:
 \end_layout
 
 \begin_layout Proof
-\begin_inset Formula $\measuredangle EID=\frac{\measuredangle ECH}{2}$
+\begin_inset Formula $\measuredangle EID=\frac{\measuredangle ECF}{2}$
 \end_inset
 
 , 
-\begin_inset Formula $\measuredangle IED=\frac{\measuredangle ECF}{2}$
+\begin_inset Formula $\measuredangle IED=\frac{\measuredangle ECH}{2}$
 \end_inset
 
  because of the inscribed angle theorem.
 \begin_inset Formula 
 \[
-\frac{\measuredangle ECH+\measuredangle ECF}{2}=\measuredangle EDF
+\frac{\measuredangle ECF+\measuredangle ECH}{2}=\measuredangle EDF
 \]
 
 \end_inset
