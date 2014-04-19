@@ -1353,6 +1353,32 @@ The angles
 \end_layout
 
 \begin_layout BeginFrame
+Secant Angle Theorem
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename secant-angle-tri.svg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Proof
+\begin_inset Formula $\measuredangle IED+\measuredangle EID+\measuredangle IDE=180^{\circ}.$
+\end_inset
+
+ Also 
+\begin_inset Formula $\measuredangle IDE+\measuredangle EDF=180^{\circ}$
+\end_inset
+
+So:
+\end_layout
+
+\begin_layout BeginFrame
 We now begin on the pentagram
 \end_layout
 
@@ -2348,7 +2374,7 @@ won't
 \align center
 
 \size large
-Pentagram Rule!
+Pentagrams Rule!
 \end_layout
 
 \begin_layout EndFrame
