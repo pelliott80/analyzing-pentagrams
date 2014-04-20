@@ -154,7 +154,7 @@ Intellectual Machinery
 \align center
 \begin_inset Graphics
 	filename inscribed-pent.svg
-	scale 10
+	scale 20
 
 \end_inset
 
@@ -409,8 +409,8 @@ Analyzing the Golden Triangle
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename golden-tri.png
-	scale 30
+	filename golden-tri.svg
+	scale 40
 
 \end_inset
 
@@ -445,7 +445,7 @@ Dissecting the Golden Triangle
 \begin_layout ColumnsTopAligned
 \begin_inset Graphics
 	filename g3259.png
-	scale 15
+	scale 30
 
 \end_inset
 
@@ -522,7 +522,7 @@ Golden Triangle Split
 \begin_layout Standard
 \begin_inset Graphics
 	filename g221.png
-	scale 15
+	scale 25
 
 \end_inset
 
@@ -594,7 +594,7 @@ The other triangle
 \begin_layout Standard
 \begin_inset Graphics
 	filename g3908-7.png
-	scale 15
+	scale 25
 
 \end_inset
 
@@ -660,7 +660,7 @@ The angles of the Golden Triangle
 \begin_layout Standard
 \begin_inset Graphics
 	filename golden-tri.png
-	scale 5
+	scale 20
 
 \end_inset
 
@@ -729,7 +729,7 @@ Remember the other triangle? It is a Golden Gnomon
 \begin_layout Standard
 \begin_inset Graphics
 	filename g3908-7.png
-	scale 15
+	scale 20
 
 \end_inset
 
@@ -768,7 +768,7 @@ It is an isosceles triangle with base angles
 \begin_layout ColumnsTopAligned
 \begin_inset Graphics
 	filename g3051.png
-	scale 30
+	scale 50
 
 \end_inset
 
@@ -807,7 +807,6 @@ The Golden Gnomon can also be dissected
 \align center
 \begin_inset Graphics
 	filename gnomon-disect.png
-	scale 50
 
 \end_inset
 
@@ -822,6 +821,21 @@ The Golden Gnomon can also be dissected, just as the Golden Triangle can.
 
 \begin_layout Standard
 This is important in Penrose tilings.
+\end_layout
+
+\begin_layout BeginFrame
+Inscribed Angle Theorem
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename inscribed2-theorem.svg
+	scale 35
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout BeginFrame
