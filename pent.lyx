@@ -444,8 +444,8 @@ Dissecting the Golden Triangle
 \end_deeper
 \begin_layout ColumnsTopAligned
 \begin_inset Graphics
-	filename g3259.png
-	scale 30
+	filename disect-trunc.svg
+	scale 20
 
 \end_inset
 
@@ -521,8 +521,8 @@ Golden Triangle Split
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename g221.png
-	scale 25
+	filename disect-trunc.svg
+	scale 20
 
 \end_inset
 
@@ -578,6 +578,47 @@ Consider the triangles
 \end_layout
 
 \end_deeper
+\begin_layout BeginFrame
+Golden Triangle Split
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename disect-comb.svg
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Take the triangle on the left, and rotate it so the small triangle is upright
+ and magnify by 
+\begin_inset Formula $\phi$
+\end_inset
+
+, to get the triangle on the left.
+\end_layout
+
+\begin_layout BeginFrame
+Superimpose
+\end_layout
+
+\begin_layout Standard
+Take the triangle on the left slide right to superimpose the triangles!
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename disect-super.svg
+	scale 19
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout BeginFrame
 The other triangle
 \end_layout
@@ -2240,7 +2281,7 @@ Gnomon tells about circle and pentagram
 
 \begin_layout Standard
 Consider this triangle.
- It is isolease because two sides are radii.
+ It is isosceles because two sides are radii.
  It is a 
 \begin_inset Formula $36^{\circ}$
 \end_inset
@@ -2398,7 +2439,7 @@ understanding pentagrams
 \begin_layout Standard
 Everything I have told you was known to Euclid.
  Nevertheless, I believe that pentagrams are an infinite field of study.
- I believe that our analytic side is fundementally limited so that we can
+ I believe that our analytic side is fundamentally limited so that we can
  not 
 \begin_inset Quotes eld
 \end_inset
@@ -2411,9 +2452,9 @@ grok
  Nevertheless, the analytic can not be neglected, because the analytic and
  the intuitive stimulate and complement each other.
  This is the mystery of Hod and Netzach.
- It may be that our existance as limited beings prevents us from fully understan
+ It may be that our existence as limited beings prevents us from fully understan
 ding the mystery of pentagrams.
- Language is a kludge that works for survivial but can not reveal ultimate
+ Language is a kludge that works for survival but can not reveal ultimate
  truth.
 \end_layout
 
@@ -2433,14 +2474,14 @@ The mystery of pentagrams
 \end_layout
 
 \begin_layout Standard
-I have a hunch that pentagrams are part of the foundations of our existance.
+I have a hunch that pentagrams are part of the foundations of our existence.
  It is pentagrams all the way down.
 \end_layout
 
 \begin_layout Standard
 Pentagrams are part of the practice of almost all occult and some religious
  organizations.
- Yet try to get a practicioner to tell you why! They can't or won't explain
+ Yet try to get a practitioner to tell you why! They can't or won't explain
  this.
  And maybe 
 \begin_inset Quotes eld
