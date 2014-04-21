@@ -1743,7 +1743,7 @@ angles.
 \end_layout
 
 \begin_layout BeginFrame
-The exterior pentagon angles are 
+The pentagon angles are 
 \begin_inset Formula $108^{\circ}$
 \end_inset
 
@@ -1751,7 +1751,7 @@ The exterior pentagon angles are
 \end_layout
 
 \begin_layout Theorem
-The exterior angles of a regular pentagon are 
+The angles of the exterior regular pentagon are 
 \begin_inset Formula $108^{\circ}$
 \end_inset
 
