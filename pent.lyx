@@ -1606,6 +1606,25 @@ The regular pentagram vertex angles are
 
 \end_layout
 
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename pentagram-pentagon-pie-angle.svg
+	scale 35
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+The regular pentagram vertex angles are 
+\begin_inset Formula $36^{\circ}$
+\end_inset
+
+
+\end_layout
+
 \begin_layout Theorem
 The regular pentagram vertex angles are 
 \begin_inset Formula $36^{\circ}$
@@ -1632,6 +1651,25 @@ The vertex angles span the same arcs as the
 
  central angles.
  Inscribed angle theorem.
+\end_layout
+
+\begin_layout BeginFrame
+The angles between the pentagon sides and the pentagram sides are also 
+\begin_inset Formula $36^{\circ}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename pentagram-pentagon-pie-slop-angle.svg
+	scale 35
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout BeginFrame
