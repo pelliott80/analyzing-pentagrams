@@ -131,6 +131,30 @@ https://github.com/pelliott80/analyzing-pentagrams
 
 \end_layout
 
+\begin_layout Standard
+This work was made with
+\end_layout
+
+\begin_layout Itemize
+GNU/Linux
+\end_layout
+
+\begin_layout Itemize
+LyX
+\end_layout
+
+\begin_layout Itemize
+LaTeX beamer
+\end_layout
+
+\begin_layout Itemize
+carmetal
+\end_layout
+
+\begin_layout Itemize
+inkscape
+\end_layout
+
 \begin_layout BeginFrame
 Analyzing Pentagrams
 \end_layout
