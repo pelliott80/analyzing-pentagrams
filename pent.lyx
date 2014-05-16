@@ -1410,7 +1410,7 @@ The angles between the pentagon sides and the pentagram sides are also
 \align center
 \begin_inset Graphics
 	filename pentagram-pentagon-pie-slop-angle.svg
-	scale 35
+	scale 30
 
 \end_inset
 
@@ -1455,26 +1455,17 @@ The angles between the pentagon sides and the pentagram sides span the same
 \end_layout
 
 \begin_layout BeginFrame
-The secant angles where pentagram sides cross are 
-\begin_inset Formula $72^{\circ}$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Theorem
-The secant angles where pentagram sides cross are 
-\begin_inset Formula $72^{\circ}$
+The interior pentagon angles are 
+\begin_inset Formula $108^{\circ}$
 \end_inset
 
 
 \end_layout
 
 \begin_layout Standard
-\align center
 \begin_inset Graphics
-	filename pentagram-secant-angle.svg
-	scale 10
+	filename pentagram-pentagon-pie-slop-angle-int.svg
+	scale 25
 
 \end_inset
 
@@ -1482,25 +1473,41 @@ The secant angles where pentagram sides cross are
 \end_layout
 
 \begin_layout Proof
-the intercepted arcs are both 
-\begin_inset Formula $72^{\circ}$
+\begin_inset Formula $180^{\circ}-36^{\circ}-36^{\circ}=108^{\circ}$
 \end_inset
 
-.
- Secant angle theorem.
+
 \end_layout
 
 \begin_layout BeginFrame
-The interior pentagon angles are 
-\begin_inset Formula $108^{\circ}$
+The secant angles where pentagram sides cross are 
+\begin_inset Formula $72^{\circ}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename pentagram-pentagon-pie-slop-angle-int-sup.svg
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+The secant angles where pentagram sides cross are 
+\begin_inset Formula $72^{\circ}$
 \end_inset
 
 
 \end_layout
 
 \begin_layout Theorem
-The interior pentagon angles are 
-\begin_inset Formula $108^{\circ}$
+The secant angles where pentagram sides cross are 
+\begin_inset Formula $72^{\circ}$
 \end_inset
 
 
@@ -1509,7 +1516,7 @@ The interior pentagon angles are
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename interior-pentagon-angle.svg
+	filename pentagram-pentagon-pie-slop-angle-int-sup.svg
 	scale 10
 
 \end_inset
@@ -1518,11 +1525,11 @@ The interior pentagon angles are
 \end_layout
 
 \begin_layout Proof
-Supplemental angles to 
-\begin_inset Formula $72^{\circ}$
+These angles are supplemental to 
+\begin_inset Formula $108^{\circ}$
 \end_inset
 
-angles.
+ angles.
 \end_layout
 
 \begin_layout BeginFrame
