@@ -1047,6 +1047,21 @@ Proof of the special case
 \align center
 \begin_inset Graphics
 	filename special-case-with-angle.svg
+	scale 25
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+Proof of the special case
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename special-case-with-angle.svg
 	scale 10
 
 \end_inset
@@ -1146,63 +1161,18 @@ So
 The General Case
 \end_layout
 
-\begin_layout ColumnsTopAligned
-
-\end_layout
-
-\begin_deeper
-\begin_layout Column
-5cm
-\end_layout
-
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename stradle-hide-tr.svg
-	scale 10
+	scale 30
 
 \end_inset
 
 
-\end_layout
-
-\begin_layout Column
-5cm
-\end_layout
-
-\begin_layout ColumnsTopAligned
 \begin_inset Graphics
 	filename stradle-line-tr.svg
-	scale 10
-
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Proof
-Draw line 
-\begin_inset Formula $\overleftrightarrow{AF}$
-\end_inset
-
- splitting our angles which are not subject to the special case, into 
-\begin_inset Formula $2$
-\end_inset
-
- angles which have one side as a diameter, and to which our special case
- does apply.
- we can write:
-\end_layout
-
-\begin_layout Proof
-\begin_inset Formula 
-\begin{eqnarray*}
-\measuredangle ECF & = & 2\,\measuredangle EAF\\
-\measuredangle FCG & = & 2\,\measuredangle FAG\\
-\measuredangle ECF+\measuredangle FCG & = & 2\,\measuredangle EAF+2\measuredangle FAG\\
-\measuredangle ECF+\measuredangle FCG & = & 2\left(\measuredangle EAF+\measuredangle FAG\right)\\
-\measuredangle ECG & = & 2\,\measuredangle EAG
-\end{eqnarray*}
+	scale 30
 
 \end_inset
 
@@ -1213,7 +1183,8 @@ Draw line
 The General Case
 \end_layout
 
-\begin_layout Proof
+\begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename stradle-hide-tr.svg
 	scale 10
