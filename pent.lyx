@@ -1515,6 +1515,32 @@ The pentagon angles are
 
 \end_layout
 
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ext-pentagon-angle.svg
+	scale 20
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename pentagram-pentagon-ins-angle.svg
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+The pentagon angles are 
+\begin_inset Formula $108^{\circ}$
+\end_inset
+
+
+\end_layout
+
 \begin_layout Theorem
 The angles of the exterior regular pentagon are 
 \begin_inset Formula $108^{\circ}$
